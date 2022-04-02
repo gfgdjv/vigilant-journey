@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .icecream {
+      display: flex;
+  }
+
+  .icecream__title {
+      font-weight: bold;
+      font-size: 26px;
+  } 
+
+  .img {
+      width: 550px;
+      height: 550px;
+      overflow: hidden;
+  }
+
+  .icecream__info {
+      font-size: 16px;
+      color: rgba(0, 0, 0, 0.404);
+  }
+
+  .icecream__cost {
+      display: flex;
+  }
